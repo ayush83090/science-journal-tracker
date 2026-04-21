@@ -32,7 +32,7 @@ Science-Journal-Tracker/
 │── README.md         # Project documentation
 ⚙️ Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/science-journal-tracker.git
+git clone https://github.com/ayush83090/science-journal-tracker.git
 
 # Navigate to project folder
 cd science-journal-tracker
