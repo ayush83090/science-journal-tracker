@@ -40,12 +40,6 @@ cd science-journal-tracker
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the app
-python app.py
-📸 Screenshots (Optional)
-
-Add screenshots of your UI here for better presentation
-
 🎯 Use Cases
 Students exploring recent research papers
 Researchers tracking latest publications
